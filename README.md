@@ -5,15 +5,11 @@ BCA Student • Aspiring Software Engineer • Building with Code
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
