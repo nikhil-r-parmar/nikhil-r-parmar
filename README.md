@@ -51,13 +51,42 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity:
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nikhil-r-parmar&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-r-parmar&theme=radical&hide_border=false" />
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil-r-parmar&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil-r-parmar&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-r-parmar&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-r-parmar&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil-r-parmar&theme=radical&utcOffset=5.5">
+
 </div>
 
+<br>
+
+<div align="center">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-r-parmar&theme=radical&hide_border=false" />
+</div>
+
+<br>
+
+<!-- Snake Game Contribution Graph -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+## 🌐 Connect & Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](#) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+
+<br>
+
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhil-r-parmar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
