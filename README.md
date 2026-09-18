@@ -6,7 +6,7 @@
 
 **A BCA Student || Aspiring Software Engineer || Full-Stack Development Learner from India 🇮🇳**
 
-📧 Email Me 👉 ✉️ **nikhilparmarotc@gmail.com** For Collaboration, Projects or Anything Else. 😊
+📧 Email Me 👉 ✉️ **nikhilparmarofc@gmail.com** For Collaboration, Projects or Anything Else. 😊
 
 ---
 
