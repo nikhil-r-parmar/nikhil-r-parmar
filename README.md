@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=nikhil-r-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-r-parmar" />
 </p>
 
-# 💫 𝙃𝙞 👋, 𝙄'𝙢 𝙉𝙞𝙠𝙝𝙞𝙡 𝙍. 𝙋𝙖𝙧𝙢𝙖𝙧
+# 💫 Hi 👋, I'm Nikhil R. Parmar
 
 **A BCA Student || Aspiring Software Engineer || Full-Stack Development Learner from India 🇮🇳**
 
