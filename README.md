@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nikhil-r-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-r-parmar" />
 </p>
-
+.
 # 💫 Hii 👋, I'm Nikhil R. Parmar
 
 
@@ -90,5 +90,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
 
